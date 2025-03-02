@@ -23,7 +23,8 @@ export default function Dictionary() {
   return (
     <div className="Dictionary">
       <form onSubmit={search} name="myForm">
-        <input type="search" onChange={handleChange} />
+              <input type="search" onChange={handleChange} />
+             
       </form>
     </div>
   );
