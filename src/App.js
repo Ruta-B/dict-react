@@ -8,9 +8,10 @@ function App() {
       <div className='container'>
         <header className="App-header">R.B</header>
         <main>
-          <Dictionary />
+          <Dictionary defKey="Car" />
         </main>
-      <footer>
+        <footer>
+          This project was made by Ruta Baumane and is open-sourced on {""}
         <a
           href="https://github.com/Ruta-B/dict-react"
           target="_blank"

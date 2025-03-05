@@ -1,7 +1,13 @@
 .App {
   text-align: center;
+  background-color: #0a3642;
+  height: max-content;
+  margin-top: 10px;
 }
-
+.App footer{
+  color: white;
+  
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
@@ -10,14 +16,13 @@
 }
 
 .App-header {
-  background-color: #282c34;
- 
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
+  background-color: rgb(232, 233, 232);
+  margin-top: 20px;
+
+  text-align: start;
+
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: rgb(19, 18, 18);
 }
 
 .App-link {

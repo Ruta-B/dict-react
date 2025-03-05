@@ -1,0 +1,16 @@
+.Synonyms ul{
+    text-transform: none;
+    text-align: left;
+    font-size:28px;
+    font-family:  "Dancing Script", cursive; 
+    margin: 10px 20px;
+   
+}
+
+.Synonyms li{
+    list-style: none;
+    display: inline-block;
+    padding: 8px 8px;
+    opacity: 0.6;
+    line-height: 1.5;
+}
